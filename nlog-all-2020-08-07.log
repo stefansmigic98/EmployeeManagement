@@ -1,0 +1,16 @@
+2020-08-07 00:04:34.7420||DEBUG|PraksaWebAPI.Program|init main 
+2020-08-07 00:04:35.9551||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:31153 
+2020-08-07 00:04:35.9551||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-07 00:04:35.9720||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-07 00:04:35.9720||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Fax\vs\PraksaWebAPI\PraksaWebAPI 
+2020-08-07 00:05:15.0492||INFO|PraksaWebAPI.Controllers.EmployeeController|Get employees 
+2020-08-07 00:10:52.2365||DEBUG|PraksaWebAPI.Program|init main 
+2020-08-07 00:10:53.8094||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:11498 
+2020-08-07 00:10:53.8230||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-07 00:10:53.8230||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-07 00:10:53.8333||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Fax\vs\PraksaWebAPI\PraksaWebAPI 
+2020-08-07 00:12:04.2279||DEBUG|PraksaWebAPI.Program|init main 
+2020-08-07 00:12:05.7246||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:25712 
+2020-08-07 00:12:05.7417||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-07 00:12:05.7417||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-07 00:12:05.7565||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\Fax\vs\PraksaWebAPI\PraksaWebAPI 
